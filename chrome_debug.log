@@ -1,0 +1,4 @@
+[23992:23992:1030/171218.664938:ERROR:vaapi_wrapper.cc(529)] vaInitialize failed: unknown libva error
+[23992:23992:1030/171218.740061:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[23965:23965:1030/171337.170285:INFO:CONSOLE(0)] "Blocked attempt to show a 'beforeunload' confirmation panel for a frame that never had a user gesture since its load. https://www.chromestatus.com/feature/5082396709879808", source: https://www.betika.com/mobile/#/virtuals/results?season=1947814&matchday= (0)
+[23965:23965:1030/171338.663574:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
